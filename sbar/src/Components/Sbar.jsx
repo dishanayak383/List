@@ -1,7 +1,7 @@
 import React from "react";
 import "./Sbar.css"
 import { FiSearch } from "react-icons/fi";
-
+import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 const Sbar=()=>{
     return(
@@ -24,6 +24,7 @@ const Sbar=()=>{
                     <div className="register">Register</div>
                 </div>
                 <div className="employee">For employers</div>
+                <div className="icon1"><MdOutlineKeyboardArrowDown /></div>
             </div>
         </div>
             

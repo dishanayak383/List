@@ -48,12 +48,14 @@
     margin-left: 250px;
     margin-top: -30px;
     border-radius: 20px;
+    background-color: blue;
 }
 .icon {
     font-size: 20px;
     text-align: center;
     margin-top: 5px;
-    background-color: blue;
+    color: white;
+    
    
 }
 .box3 {
@@ -81,13 +83,14 @@
     margin-left: 1380px;
     border-radius: 30px;
     margin-top: -50px;
+    background-color: darkorange;
 
 }
 .register {
     margin-top: 10px;
     margin-left: 5px;
     color: white;
-    background-color: orange;
+   
     font-size: 20px;
     font-weight: bold;
     text-align: center;
@@ -97,4 +100,9 @@
     margin-left: 1540px;
     font-size: 20px;
     margin-top: -40px;
+}
+.icon1 {
+    margin-left: 1660px;
+    font-size: 25px;
+    margin-top: -25px;
 }
